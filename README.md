@@ -1,2 +1,2 @@
 # Progra2
-PAra trabajos y practicas de progra
+Para trabajos y practicas de progra
